@@ -32,9 +32,9 @@ This quiz is about the history of tata motors. It is basically CLI app using nod
             > - If the score is greater than 6, then user is asked to play the quiz again if he/she want.
             >
             > - If the score is less than 6, then user is asked if he/she wants to know the right answer or not.
-                >> - If user select yes for right answer then all the right answer is displayed.
+                >> - If user select **yes** for right answer then all the right answer is displayed.
                 >>
-                >> - If user select no then, user is greeted by message.
+                >> - If user select **no** then, user is greeted by message.
 
 
         1. User has to email the screenshot, to update his/her name in the High Score.
